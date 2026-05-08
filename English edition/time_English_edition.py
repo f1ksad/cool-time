@@ -42,3 +42,4 @@ while True:
         time.sleep(1) 
 
     print("\n\n🎉 БИП-БИП! Время вышло! Готово! ")
+    print("\a")

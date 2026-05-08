@@ -1,4 +1,5 @@
-('C:\\Users\\myfam\\Desktop\\github\\time\\build\\time\\PYZ-00.pyz',
+('C:\\Users\\myfam\\Desktop\\github\\time\\Russian '
+ 'edition\\build\\time\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\myfam\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
    'PYMODULE'),
